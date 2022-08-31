@@ -1,0 +1,11 @@
+C:\Users\Doğuş\source\repos\Odev2208\Odev2208\bin\Debug\Odev2208.exe.config
+C:\Users\Doğuş\source\repos\Odev2208\Odev2208\bin\Debug\Odev2208.exe
+C:\Users\Doğuş\source\repos\Odev2208\Odev2208\bin\Debug\Odev2208.pdb
+C:\Users\Doğuş\source\repos\Odev2208\Odev2208\obj\Debug\Odev2208.csproj.AssemblyReference.cache
+C:\Users\Doğuş\source\repos\Odev2208\Odev2208\obj\Debug\Odev2208.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doğuş\source\repos\Odev2208\Odev2208\obj\Debug\Odev2208.Form1.resources
+C:\Users\Doğuş\source\repos\Odev2208\Odev2208\obj\Debug\Odev2208.Properties.Resources.resources
+C:\Users\Doğuş\source\repos\Odev2208\Odev2208\obj\Debug\Odev2208.csproj.GenerateResource.cache
+C:\Users\Doğuş\source\repos\Odev2208\Odev2208\obj\Debug\Odev2208.csproj.CoreCompileInputs.cache
+C:\Users\Doğuş\source\repos\Odev2208\Odev2208\obj\Debug\Odev2208.exe
+C:\Users\Doğuş\source\repos\Odev2208\Odev2208\obj\Debug\Odev2208.pdb
